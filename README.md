@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Languages and tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="AWS" weidth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
