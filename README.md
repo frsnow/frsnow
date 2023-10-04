@@ -3,7 +3,6 @@ Hello 👀
 Currently creating a GTA V FiveM roleplay
 
 You can contact me on discord: aklox
-My twitter: https://twitter.com/Aklox_
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aklox31&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
